@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "my-document.html",
+    "href": "my-document.html",
+    "title": "我的第一个 Quarto 文档",
+    "section": "",
+    "text": "这是一个使用 Quarto 创建的文档。"
+  },
+  {
+    "objectID": "my-document.html#引言",
+    "href": "my-document.html#引言",
+    "title": "我的第一个 Quarto 文档",
+    "section": "",
+    "text": "这是一个使用 Quarto 创建的文档。"
+  },
+  {
+    "objectID": "my-document.html#模型比较结果",
+    "href": "my-document.html#模型比较结果",
+    "title": "我的第一个 Quarto 文档",
+    "section": "模型比较结果",
+    "text": "模型比较结果\n\ngpt-4o - 答案最全面\ngemini-pro-2.5 - 运行较稳定\ndeepseek-r1 - 逻辑性较强\nkimi-k2.5 - 中文最贴切\nclaude-sonnet-3-6 - 整体可使用"
+  },
+  {
+    "objectID": "my-document.html#存储与备份策略",
+    "href": "my-document.html#存储与备份策略",
+    "title": "我的第一个 Quarto 文档",
+    "section": "存储与备份策略",
+    "text": "存储与备份策略\n\n3-2-1 备份方案\n\n3 份数据副本\n2 种不同存储介质\n1 份异地备份"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
