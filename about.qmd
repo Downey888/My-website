@@ -1,10 +1,11 @@
----
+----
 title: "关于我"
 ---
 
-::: {.grid}
-
-::: {.g-col-8}
+<table style="width: 100%; border: none;">
+  <tr>
+    <td style="width: 70%; vertical-align: top; border: none;">
+      
 ## 个人简介
 
 我是唐成翰，学号 2025303110045，环境规划与管理学专业学生。
@@ -22,10 +23,14 @@ title: "关于我"
 - **可视化**：matplotlib, ggplot2
 - **文档工具**：Quarto, Markdown
 - **版本控制**：Git, GitHub
-:::
 
-::: {.g-col-4}
-![我的照片](my_photo.jpg){width=200 .rounded-circle .img-fluid}
-:::
+    </td>
+    <td style="width: 30%; text-align: center; vertical-align: top; border: none;">
+      
+![我的照片](my_photo.jpg){width=180 .rounded-circle}
 
-:::
+*这是我的照片*
+
+    </td>
+  </tr>
+</table>
