@@ -1,11 +1,10 @@
-----
+---
 title: "关于我"
 ---
 
-<table style="width: 100%; border: none;">
-  <tr>
-    <td style="width: 70%; vertical-align: top; border: none;">
-      
+<div style="display: flex; gap: 30px; flex-wrap: wrap;">
+  <div style="flex: 2; min-width: 200px;">
+    
 ## 个人简介
 
 我是唐成翰，学号 2025303110045，环境规划与管理学专业学生。
@@ -24,13 +23,10 @@ title: "关于我"
 - **文档工具**：Quarto, Markdown
 - **版本控制**：Git, GitHub
 
-    </td>
-    <td style="width: 30%; text-align: center; vertical-align: top; border: none;">
-      
-![我的照片](my-photo.jpg){width=180 .rounded-circle}
+  </div>
+  <div style="flex: 1; text-align: center;">
+    
+![我的照片](my-photo.jpg){width=200 .rounded-circle}
 
-*这是我的照片*
-
-    </td>
-  </tr>
-</table>
+  </div>
+</div>
