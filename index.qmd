@@ -1,7 +1,20 @@
 ---
-title: "Chenghan's website"
+title: "唐成翰的个人主页"
 ---
 
-This is a Quarto website.
+# 欢迎来到我的主页
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## 关于我
+- 学号：2025303110045
+- 专业：环境规划与管理
+- 兴趣：地理分析、机器学习、人工智能
+
+## 技能
+- R 语言
+- Python
+- Quarto
+- Git & GitHub
+
+## 我的项目
+- [GitHub Pages 网站](https://downey888.github.io/My-website/)
+- [Members PR 贡献](https://github.com/D2RS-2026spring/members/pulls)
