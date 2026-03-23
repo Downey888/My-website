@@ -4,6 +4,8 @@ title: "唐成翰的个人主页"
 
 # 欢迎来到我的主页
 
+![我的照片](my-photo.jpg){width=150 .rounded-circle .border}
+
 ## 关于我
 - 学号：2025303110045
 - 专业：环境规划与管理

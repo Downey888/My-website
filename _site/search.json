@@ -32,14 +32,14 @@
     "href": "about.html",
     "title": "关于我",
     "section": "",
-    "text": "我是唐成翰，学号 2025303110045，环境规划与管理学专业学生。"
+    "text": "个人照片"
   },
   {
     "objectID": "about.html#个人简介",
     "href": "about.html#个人简介",
     "title": "关于我",
-    "section": "",
-    "text": "我是唐成翰，学号 2025303110045，环境规划与管理学专业学生。"
+    "section": "个人简介",
+    "text": "个人简介\n我是唐成翰，学号 2025303110045，环境规划与管理学专业学生。"
   },
   {
     "objectID": "about.html#教育背景",
@@ -67,7 +67,7 @@
     "href": "index.html",
     "title": "唐成翰的个人主页",
     "section": "",
-    "text": "学号：2025303110045\n专业：环境规划与管理\n兴趣：地理分析、机器学习、人工智能\n\n\n\n\n\nR 语言\nPython\nQuarto\nGit & GitHub\n\n\n\n\n\nGitHub Pages 网站\nMembers PR 贡献"
+    "text": "我的照片\n\n\n\n\n\n学号：2025303110045\n专业：环境规划与管理\n兴趣：地理分析、机器学习、人工智能\n\n\n\n\n\nR 语言\nPython\nQuarto\nGit & GitHub\n\n\n\n\n\nGitHub Pages 网站\nMembers PR 贡献"
   },
   {
     "objectID": "index.html#关于我",
